@@ -86,7 +86,7 @@ const Chatbot = () => {
       "do you offer free consultations or demos?": "Yes, we offer free initial consultations and product demonstrations. Contact us to schedule one.",
       "are there any discounts for bulk orders?": "Yes, we offer special pricing for bulk orders. Please contact our sales team for details.",
       "what payment methods do you accept?": "We accept various payment methods including bank transfer, credit cards, and corporate purchase orders.",
-      "how can i get technical support?": "For technical support, you can reach us 24/7 at our helpdesk: 080-4377 3134 or email support@synergykortex.com",
+      "how can i get technical support?": "For technical support, you can reach us 24/7 at our helpdesk: 9580132019 or email support@synergykortex.com",
       "what is your warranty policy?": "We offer comprehensive warranty coverage on all our products and services. Duration varies by product.",
       "do you provide on-site support or remote assistance?": "We provide both on-site support and remote assistance, depending on your needs and the situation.",
       "where can i find product manuals or guides?": "Product manuals and guides are available in our customer portal or can be requested from our support team.",
@@ -221,8 +221,6 @@ const Chatbot = () => {
           }}
         >
           <img 
-            // src="https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/1.png?raw=true" 
-            // src="src\assets\chatbot.png"
             src="https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/chatbot.png?raw=true"
             alt="Chat" 
             style={{ 
