@@ -52,7 +52,7 @@ function Header() {
     <nav className='bg-[#EEEDF2] h-20 px-4 sm:px-10 py-5 max-w-screen-2xl flex justify-between items-center'>
       {/* Logo Section */}
       <div className="flex items-center">
-        <a href="/"><img src="src\assets\logo.png" alt="Logo" className="h-12" /> </a> 
+        <a href="/"><img src="https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/logo.png?raw=true" alt="Logo" className="h-12" /> </a> 
        <a href="/"><h2 className="font-bold text-[#223d57] px-4 sm:px-8 text-lg">Synergy Kortex</h2></a> 
       </div>
 
