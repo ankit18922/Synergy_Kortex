@@ -221,7 +221,6 @@ const Chatbot = () => {
           }}
         >
           <img 
-            // src="https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/1.png?raw=true" 
             src="https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/chatbot.png?raw=true"
             alt="Chat" 
             style={{ 
