@@ -26,17 +26,17 @@ const Healthcare = () => {
 
   const cards = [
     {
-      image: "https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/H2.gif?raw=true",
+      image: "https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/H2.gif?raw=true",
       title: "Break Down Silos",
       description: "Enable your teams to make better decisions based on real-time data across support teams"
     },
     {
-      image: "https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/H3.gif?raw=true",
+      image: "https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/H3.gif?raw=true",
       title: "Optimize Operations",
       description: "Connect equipment and asset data, automate work orders, and manage priorities and expenses"
     },
     {
-      image: "https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/H4.gif?raw=true",
+      image: "https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/H4.gif?raw=true",
       title: "Be Regulatory Ready",
       description: "Maintain accurate documentation and ensure processes are followed with built-in compliance controls"
     }
@@ -57,7 +57,7 @@ const Healthcare = () => {
         <div className="relative w-full flex justify-center px-4 sm:px-0">
           
           <img
-            src="https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/h1.png?raw=true"
+            src="https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/h1.png?raw=true"
             alt="Life Sciences"
             className="w-full sm:w-[350px] md:w-[450px] lg:w-full h-auto rounded-2xl max-w-[500px]"
             style={{
@@ -290,7 +290,7 @@ const Healthcare = () => {
               transition={{ duration: 0.5 }}
             >
               <motion.img
-                src="https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/H5.jpg?raw=true"
+                src="https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/H5.jpg?raw=true"
                 alt="GMP Facilities"
                 className="w-full h-auto object-cover rounded-lg shadow-xl"
                 style={{ maxWidth: '550px' }}
@@ -449,7 +449,7 @@ const Healthcare = () => {
   <div className="relative w-full flex justify-center">
    
     <img
-      src="https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/H6.jpg?raw=true"
+      src="https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/H6.jpg?raw=true"
       alt="Life Sciences"
       className="w-full sm:w-auto h-auto rounded-2xl sm:max-w-[200px] md:max-w-[200px] lg:max-w-[600px] object-cover"
     />
@@ -493,7 +493,7 @@ const Healthcare = () => {
             >
               <div className="relative">
                 <motion.img
-                  src="https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/H7.jpg?raw=true"
+                  src="https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/H7.jpg?raw=true"
                   alt="Calibration Equipment"
                   className="w-full rounded-lg shadow-lg max-w-[550px]"
                   initial={{ scale: 0.95, opacity: 0 }}
@@ -502,7 +502,7 @@ const Healthcare = () => {
                   whileHover={{ scale: 1.02 }}
                 />
                 <motion.img
-                  src="https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/life9.gif?raw=true"
+                  src="https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/life9.gif?raw=true"
                   alt="Statistics Chart"
                   className="absolute -top-16 -left-8 w-36 h-36 z-10"
                   initial={{ y: 20, opacity: 0, rotate: -10 }}
@@ -511,7 +511,7 @@ const Healthcare = () => {
                   whileHover={{ scale: 1.1, rotate: 5 }}
                 />
                 <motion.img
-                  src="https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/life11.gif?raw=true"
+                  src="https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/life11.gif?raw=true"
                   alt="Performance Chart"
                   className="absolute -bottom-8 right-10 w-36 h-36 z-10"
                   initial={{ y: 20, opacity: 0, rotate: 10 }}
