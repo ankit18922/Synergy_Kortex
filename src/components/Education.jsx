@@ -26,17 +26,18 @@ const Education = () => {
 
   const cards = [
     {
-      image: "https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/E2.gif?raw=true",
+      // image: "https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/E2.gif?raw=true",
+       image: "https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/E2.gif?raw=true",
       title: "Optimize Facilities Operations",
       description: "Track all of your assets and develop comprehensive preventive and corrective maintenance plans"
     },
     {
-      image: "https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/E3.gif?raw=true",
+      image: "https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/E3.gif?raw=true",
       title: "Make Space Decisions With Confidence",
       description: "Get real-time insights into how departments are using your spaces, and better track chargebacks to determine space priorities"
     },
     {
-      image: "https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/E4.gif?raw=true",
+      image: "https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/E4.gif?raw=true",
       title: "Streamline Capital Planning Initiatives",
       description: "Manage your facility condition assessment process, create capital plan scenarios, and seamlessly create project plans"
     }
@@ -56,7 +57,7 @@ const Education = () => {
       >
         <div className="relative w-full flex justify-center px-4 sm:px-0">
           <img
-            src="https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/Education1.jpg?raw=true"
+            src="https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/Education1.jpg?raw=true"
             alt="Life Sciences"
             className="w-full sm:w-[350px] md:w-[450px] lg:w-full h-auto rounded-2xl max-w-[900px]"
             style={{
@@ -289,7 +290,7 @@ const Education = () => {
               transition={{ duration: 0.5 }}
             >
               <motion.img
-                src="https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/E5.jpg?raw=true"
+                src="https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/E5.jpg?raw=true"
                 alt="GMP Facilities"
                 className="w-full h-auto object-cover rounded-lg shadow-xl"
                 style={{ maxWidth: '550px' }}
@@ -446,7 +447,7 @@ const Education = () => {
 >
   <div className="relative w-full flex justify-center">
     <img
-      src="https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/E7.png?raw=true"
+      src="https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/E7.png?raw=true"
       alt="Life Sciences"
       className="w-full h-auto rounded-2xl sm:max-w-[200px] md:max-w-[200px] lg:max-w-[400px]"
       style={{
@@ -497,7 +498,7 @@ const Education = () => {
             >
               <div className="relative">
                 <motion.img
-                  src="https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/E6.jpg?raw=true"
+                  src="https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/E6.jpg?raw=true"
                   alt="Calibration Equipment"
                   className="w-full rounded-lg shadow-lg max-w-[550px]"
                   initial={{ scale: 0.95, opacity: 0 }}
@@ -506,7 +507,7 @@ const Education = () => {
                   whileHover={{ scale: 1.02 }}
                 />
                 <motion.img
-                  src="https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/life9.gif?raw=true"
+                  src="https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/life9.gif?raw=true"
                   alt="Statistics Chart"
                   className="absolute -top-16 -left-8 w-36 h-36 z-10"
                   initial={{ y: 20, opacity: 0, rotate: -10 }}
@@ -515,7 +516,7 @@ const Education = () => {
                   whileHover={{ scale: 1.1, rotate: 5 }}
                 />
                 <motion.img
-                  src="https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/life11.gif?raw=true"
+                  src="https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/life11.gif?raw=true"
                   alt="Performance Chart"
                   className="absolute -bottom-8 right-10 w-36 h-36 z-10"
                   initial={{ y: 20, opacity: 0, rotate: 10 }}
