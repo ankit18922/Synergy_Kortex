@@ -26,17 +26,17 @@ const LifeScience = () => {
 
   const cards = [
     {
-      image: "https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/life%20img1.gif?raw=true",
+      image: "https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/life%20img1.gif?raw=true",
       title: "Break Down Silos",
       description: "Foster cross-team collaboration to reduce unscheduled manufacturing downtime. Gain full visibility into your workplace, and make the most of your spaces"
     },
     {
-      image: "https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/lifesciences2.gif?raw=true",
+      image: "https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/lifesciences2.gif?raw=true",
       title: "Optimize Operations",
       description: "Connect assets, space, and data. Manage work orders, integrate calibration processes, automate workflows, and more"
     },
     {
-      image: "https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/life3.gif?raw=true",
+      image: "https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/life3.gif?raw=true",
       title: "Always Be Audit-Ready",
       description: "Maintain accurate records and ensure data quality with built-in compliance controls, including Part 11 compliant audit trails and validation documentation"
     }
@@ -123,7 +123,7 @@ const LifeScience = () => {
             >
               <div className="relative w-full flex justify-center px-4 sm:px-0">
                 <img
-                  src="https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/life1.jpg?raw=true"
+                  src="https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/life1.jpg?raw=true"
                   alt="Life Sciences"
                   className="w-full sm:w-[350px] md:w-[450px] lg:w-full h-auto rounded-2xl max-w-[900px]"
                   style={{
@@ -262,6 +262,7 @@ const LifeScience = () => {
           animate={{ backgroundPosition: '100% 100%' }}
           transition={{ duration: 30, repeat: Infinity, repeatType: "reverse" }}
           style={{
+            // backgroundImage: 'url("data:image/svg+xml,...)'
             backgroundImage: 'url("data:image/svg+xml,...)'
           }}
         />
@@ -286,7 +287,7 @@ const LifeScience = () => {
               transition={{ duration: 0.5 }}
             >
               <motion.img
-                src="https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/life4.jpg?raw=true"
+                src="https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/life4.jpg?raw=true"
                 alt="GMP Facilities"
                 className="w-full h-auto object-cover rounded-lg shadow-xl"
                 style={{ maxWidth: '550px' }}
@@ -444,12 +445,12 @@ const LifeScience = () => {
             >
               <div className="relative">
                 <img
-                  src="https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/life%205.png?raw=true"
+                  src="https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/life%205.png?raw=true"
                   alt="Life Sciences Professional"
                   className="w-full rounded-2xl"
                 />
                                               <motion.img
-                  src="https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/life6.gif?raw=true"
+                  src="https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/life6.gif?raw=true"
                   alt="Document Icon"
                   className="absolute -top-8 right-4 w-28 h-28 z-10"
                   initial={{ y: 20, opacity: 0 }}
@@ -458,7 +459,7 @@ const LifeScience = () => {
                   whileHover={{ scale: 1.1 }}
                 />
                 <motion.img
-                  src="https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/life7.gif?raw=true"
+                  src="https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/life7.gif?raw=true"
                   alt="Check Icon"
                   className="absolute -bottom-4 left-10 w-28 h-28 z-10"
                   initial={{ y: 20, opacity: 0 }}
@@ -467,7 +468,7 @@ const LifeScience = () => {
                   whileHover={{ scale: 1.1 }}
                 />
                 <motion.img
-                  src="https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/life8.gif?raw=true"
+                  src="https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/life8.gif?raw=true"
                   alt="List Icon"
                   className="absolute top-1.3/3 -right-10 w-28 h-28 z-10"
                   initial={{ y: 20, opacity: 0 }}
@@ -515,7 +516,7 @@ const LifeScience = () => {
             >
               <div className="relative">
                 <motion.img
-                  src="https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/live1.jpg?raw=true"
+                  src="https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/live1.jpg?raw=true"
                   alt="Calibration Equipment"
                   className="w-full rounded-lg shadow-lg max-w-[550px]"
                   initial={{ scale: 0.95, opacity: 0 }}
@@ -524,7 +525,7 @@ const LifeScience = () => {
                   whileHover={{ scale: 1.02 }}
                 />
                 <motion.img
-                  src="https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/life9.gif?raw=true"
+                  src="https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/life9.gif?raw=true"
                   alt="Statistics Chart"
                   className="absolute -top-16 -left-8 w-36 h-36 z-10"
                   initial={{ y: 20, opacity: 0, rotate: -10 }}
@@ -533,7 +534,7 @@ const LifeScience = () => {
                   whileHover={{ scale: 1.1, rotate: 5 }}
                 />
                 <motion.img
-                  src="https://github.com/RKRahul1250/finaleinfratech/blob/master/Einfratech-web-main/src/assets/life11.gif?raw=true"
+                  src="https://github.com/ankit18922/Synergy_Kortex/blob/new-branch/src/assets/life11.gif?raw=true"
                   alt="Performance Chart"
                   className="absolute -bottom-8 right-10 w-36 h-36 z-10"
                   initial={{ y: 20, opacity: 0, rotate: 10 }}
