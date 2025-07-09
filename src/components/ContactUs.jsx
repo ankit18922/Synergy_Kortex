@@ -25,7 +25,7 @@ const ContactPage = () => {
           </motion.div>
           <motion.div className="bg-white p-6 rounded-lg shadow-md" whileHover={{ scale: 1.05 }}>
             <h3 className="text-blue-600 font-semibold">Call Us</h3>
-            <p>9580132019</p>
+            <p>6307915525</p>
           </motion.div>
           <motion.div className="bg-white p-6 rounded-lg shadow-md" whileHover={{ scale: 1.05 }}>
             <h3 className="text-blue-600 font-semibold">Email Us</h3>
